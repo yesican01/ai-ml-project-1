@@ -1,2 +1,2 @@
-# ai-ml-project-1
+# ai-ML-project-1
 project 1
