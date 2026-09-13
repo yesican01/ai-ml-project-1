@@ -1,3 +1,3 @@
-# ai-ML-project-1
+# Ai-ML-project-1
 project (1)
 
